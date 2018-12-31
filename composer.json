@@ -1,0 +1,13 @@
+{
+	"name": "wisonlau/cache-lock",
+	"type": "project",
+    "autoload": {
+        "psr-4": {
+            "Cache\\Until\\Lock\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.0"
+    }
+}
